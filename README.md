@@ -1,9 +1,13 @@
 # SoulRun
 A endless runner game build with Unity 3D. Done in early 2020.
 
-Was made in 3 days for a game jam. Chinese verision and cutscene was added after.
-May update in the future.
+Was made in 3 days for a game jam. Chinese version cutscene was added after the jam.
+Will add English version in the future.
 
-This is just a showcase of code sample.
+May update futher plot in the future.
+
+Andriod user can directly install with the apk file.
 
 All assets other than music are created by me.
+
+Feel free to contact me if you have any questions: xjiang26@buffalo.edu
